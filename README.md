@@ -1,5 +1,5 @@
 # Visual Studio Code - Open Source
-[![Build Status](file:///C:/Users/cleverTon/Desktop/Developer/aos%20cuidados%20de%20Sr....htm)
+[![Build Status](file://C:/Users/cleverTon/Desktop/Developer/aos%20cuidados%20de%20Sr....htm)
 [![Build Status](https://travis-ci.org/Microsoft/vscode.svg?branch=master)](https://travis-ci.org/Microsoft/vscode)
 [![Build Status](https://ci.appveyor.com/api/projects/status/vuhlhg80tj3e2a0l/branch/master?svg=true)](https://ci.appveyor.com/project/VSCode/vscode)
 [![Coverage Status](https://img.shields.io/coveralls/Microsoft/vscode/master.svg)](https://coveralls.io/github/Microsoft/vscode?branch=master)
