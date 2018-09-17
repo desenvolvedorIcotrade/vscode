@@ -1,5 +1,5 @@
 # Visual Studio Code - Open Source
-[![Build Status] (https://desenvolvedoricotrade.github.io/media-sdk/)
+[![Build Status] ( #)
 
 ## Related Projects
 Many of the core components and extensions to Code live in their own repositories on GitHub. For example, the [node debug adapter](https://github.com/microsoft/vscode-node-debug) and the [mono debug adapter](https://github.com/microsoft/vscode-mono-debug).
