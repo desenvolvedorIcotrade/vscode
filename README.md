@@ -1,4 +1,4 @@
-# Visual Studio Code - Open Source
+ Visual Studio Code - Open Source
 [![Build Status] ( #)
 
 ## Related Projects
